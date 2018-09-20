@@ -1,0 +1,73 @@
+.bullet{
+  position:absolute;
+  top:630px;
+  height:100px;
+  weight:100px;
+  content: url("bullet.svg");
+}
+
+p{
+  text-align: center;
+  font-size: 72px;
+}
+
+.shooter{
+  content: url("missileL.svg");
+  position:absolute;
+  top:730px;
+  left:600px;
+  height:100px;
+  width:100px;
+}
+
+.bomb{
+  position:absolute;
+  height: 50px;
+  weight: 50px;
+  /* border-radius: 50%; */
+  content: url('bomb.png');
+  /* background-color: red; */
+}
+
+.bomber{
+  height: 150px;
+  width: 150px;
+}
+
+#bomber1{
+  position:absolute;
+  top: 150px;
+  left: -250px;
+  content: url('bomber1.svg');
+}
+
+#bomber2{
+  position:absolute;
+  top:0px;
+  left:1200px;
+  content: url('bomber2.svg');
+}
+
+.bomb-explode {
+    width: 320px;
+    height: 240px;
+    /* position : absolute;
+    top : 50%;
+    left : 50%; */
+    /* margin-top : -120px;
+    margin-left: -160px; */
+    background-image: url("http://www.findsourcecode.com/wp-content/uploads/2014/09/bomber.png");
+
+    -webkit-animation: play 2s steps(20) infinite;
+    -moz-animation: play 2s steps(20) infinite;
+}
+
+@-webkit-keyframes play {
+    from { background-position: 0px; }
+    to { background-position: -6400px; }
+}
+
+@-moz-keyframes play {
+    from { background-position: 0px; }
+    to { background-position: -6400px; }
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+	<defs>
+		<image width="256" height="256" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEABAMAAACuXLVVAAAAAXNSR0IB2cksfwAAABtQTFRFAAAAAAAAvQAA////+wAA1gAA1tbWgYGBpaWluop9LwAAAAl0Uk5TAP//////////NwKb1AAAATVJREFUeJzt29FtwjAUhlFWyApZISt4hazACqyQsdv0yjhpeaqEY3HPeagEL//3YMW0KrcbAAAAAAAAwL9NPwTkDZieBOQMiOl5vixBwMUBMbsspVyUIGCIgGXZA2qCgFwBx/lS1rV7goBBAkqpAesqIFdAXD7H+QjoliBgiIDzEex8DAUMETDP5/mu15GAIQIi4TwvIFfA/R4RdfzxEJAvYNtidB/fvgnIGHAmIE9AHLzXAV0SBFwcUC+eVwFdLiQBFwfU4zdNv+cj4O0JAgYKiEO4D8bHkYgSkCMgZiIgHj4CcgbUyfMrAZkC2uMoAtpPARkC4leQmhEXUntPwOcHHB3/VNUI+OSA9q/MdaweyfbeW+cFDBDwN6bzqIChAi7/goOAAQIAAAAAAAAAAAAAAIAP8QXmPHjXufAGGwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<use id="Layer 0" href="#img1" x="0" y="0" />
+</svg>
